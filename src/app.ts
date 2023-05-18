@@ -1,5 +1,5 @@
 import express, { Request, Response } from "express";
-import {joLix} from "./ts-library";
+import {joLix} from "./lib/ts-library";
 const app = express();
 
 app.get("/", (req: Request, res: Response): void => {
