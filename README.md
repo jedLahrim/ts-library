@@ -9,4 +9,5 @@ console.log(code)
 
 
 //output 
+
 a code with 8 caracters
