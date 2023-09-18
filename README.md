@@ -1,14 +1,14 @@
 # jed-ts-library
-npm install jed-ts-library 
+npm install short-link-generator-library
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 
-const code = joLix(8)
+const generatedShortLink = generateShortLink('https://in.pinterest.com/pin/782993085205496304')
 
 
-console.log(code)
+console.log(generatedShortLink)
 
 
 //output 
-a code with 8 characters
+a generatedShortLink that will take you to your main url
